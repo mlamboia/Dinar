@@ -1,0 +1,2 @@
+# Dinar
+Graphql practice repository
